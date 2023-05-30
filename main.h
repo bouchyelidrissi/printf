@@ -27,3 +27,4 @@ int number_to_hx_to_octal(unsigned int num, char base);
 /*task 5*/
 void print_hex(unsigned int num);
 #endif
+
